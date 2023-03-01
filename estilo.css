@@ -1,0 +1,62 @@
+body{
+  background-color: rgb(217, 198, 235);
+ }
+
+ h1{
+  font-family:'Roboto', sans-serif; 
+  border: 3px solid black;
+  padding: 15px;
+  margin: 30px; /* top right bottom left para definir los distintos lados -como las agujas del reloj- */
+  color: rgb(0, 81, 255); width: 300px;
+  font-weight: bold; 
+  font-style: italic;
+  text-align: center;
+  }
+  
+ image{
+  align-self: center;
+ }
+
+  h2{
+    font-family:'Roboto', sans-serif; 
+    font-weight: bold;
+  }
+
+  p{
+  font-family:'Roboto', sans-serif; 
+  color: black; 
+  width: 300px;
+  text-align: justify;
+  }
+
+  section{
+  font-family:'Roboto', sans-serif;
+  width: 300px;
+  border: 15px solid rgb(98, 74, 187);
+  padding: 50px;
+  margin: 20px;
+  background-color: rgb(184, 245, 224);
+  float: right;
+  }
+
+  li{
+  font-family:'Roboto', sans-serif;
+  color: black; 
+  width: 300px;}
+
+  form{
+  font-family:'Roboto', sans-serif; 
+  border: 1px solid black;
+  padding: 40px;
+  color: rgb(15, 15, 15); width: 300px;
+  font-weight: bold; 
+  font-style: italic;
+  }
+
+  #paginaweb{
+  font-family:'Roboto', sans-serif;
+  text-align: center;
+  font-weight: bold;
+  color: rgb(102, 6, 97);
+  }
+   
